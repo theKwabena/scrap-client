@@ -1,0 +1,93 @@
+{
+    "result": {
+        "kind": "youtube#videoListResponse",
+        "etag": "vSkH4pr2S_qkUct0jHOTCJT_OnI",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "28Al79QKzvVfrSUO1tuVKivq4Hw",
+                "id": "XBxssKYf5G0",
+                "snippet": {
+                    "publishedAt": "2023-01-11T10:00:27Z",
+                    "channelId": "UC1mxuk7tuQT2D0qTMgKji3w",
+                    "title": "Django DRF Project | API Documentation with Swagger UI | 18",
+                    "description": "In this tutorial, we learn how to start building documentation for our API, first creating a schema and then using Swagger UI to present details.\n\nUdemy Course Link:\nhttps://www.udemy.com/course/django-drf-project-ecommerce/?referralCode=59A869F117A84EA81612\n\nYouTube PlayList:\nhttps://youtube.com/playlist?list=PLOLrQ9Pn6cawinBJbH5d9IfloO9RRPMiq\n\nDeveloping applications can be a fun and effective way of learning a language and framework. In this course, at phase 1, we start building and testing an eCommerce inventory RESTful API with DRF (Django Rest Framework).\n\nThis course is primarily designed for anyone looking for a learning journey building applications with the Django Rest Framework, developing, testing and documenting a RESTful API.\n\nThis course presents our first iteration of this course and phase 1 of the development process. This course will evolve and extend over time as we iterate on the content to maximise learning opportunities.\n\nAs presented in phase 1 of the course, we initiate the project and start building and testing the core functionality of the RESTful API application. In Phase 1, we learn the fundamentals of the Python Django Rest Framework, design a database, implement testing throughout the application and work towards building our first endpoints while also automatically documenting our efforts. By the end of phase 1, you will have learnt how to start a new Django DRF project and create routers, serializers and viewsets to enable clients to interact with your API. Throughout the development process, we learn how to test our application using Pytest and document our endpoints in preparation for front-end development using SwaggerUI.\n\nWe intend to extend the content of the course to eventually include deeper relevant content to aid further your understanding of the development process and techniques, deployment, and other associated technologies. Due to the scale of our courses we hope to bring to you our approach to building courses is a phased, iterative approach. Having time to reflect, analyse and seek feedback is essential to ensure that we develop courses that will ultimately meet the highest expectations.\n\nI hope you enjoy the course.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/XBxssKYf5G0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/XBxssKYf5G0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/XBxssKYf5G0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/XBxssKYf5G0/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/XBxssKYf5G0/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Very Academy",
+                    "tags": [
+                        "django drf project",
+                        "django rest framework project",
+                        "drf ecommerce project",
+                        "viewset",
+                        "DRF router",
+                        "django router"
+                    ],
+                    "categoryId": "27",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "Django DRF Project | API Documentation with Swagger UI | 18",
+                        "description": "In this tutorial, we learn how to start building documentation for our API, first creating a schema and then using Swagger UI to present details.\n\nUdemy Course Link:\nhttps://www.udemy.com/course/django-drf-project-ecommerce/?referralCode=59A869F117A84EA81612\n\nYouTube PlayList:\nhttps://youtube.com/playlist?list=PLOLrQ9Pn6cawinBJbH5d9IfloO9RRPMiq\n\nDeveloping applications can be a fun and effective way of learning a language and framework. In this course, at phase 1, we start building and testing an eCommerce inventory RESTful API with DRF (Django Rest Framework).\n\nThis course is primarily designed for anyone looking for a learning journey building applications with the Django Rest Framework, developing, testing and documenting a RESTful API.\n\nThis course presents our first iteration of this course and phase 1 of the development process. This course will evolve and extend over time as we iterate on the content to maximise learning opportunities.\n\nAs presented in phase 1 of the course, we initiate the project and start building and testing the core functionality of the RESTful API application. In Phase 1, we learn the fundamentals of the Python Django Rest Framework, design a database, implement testing throughout the application and work towards building our first endpoints while also automatically documenting our efforts. By the end of phase 1, you will have learnt how to start a new Django DRF project and create routers, serializers and viewsets to enable clients to interact with your API. Throughout the development process, we learn how to test our application using Pytest and document our endpoints in preparation for front-end development using SwaggerUI.\n\nWe intend to extend the content of the course to eventually include deeper relevant content to aid further your understanding of the development process and techniques, deployment, and other associated technologies. Due to the scale of our courses we hope to bring to you our approach to building courses is a phased, iterative approach. Having time to reflect, analyse and seek feedback is essential to ensure that we develop courses that will ultimately meet the highest expectations.\n\nI hope you enjoy the course."
+                    },
+                    "defaultAudioLanguage": "en-GB"
+                },
+                "contentDetails": {
+                    "duration": "PT20M",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "true",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "7772",
+                    "likeCount": "123",
+                    "favoriteCount": "0",
+                    "commentCount": "21"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    "body": "{\n  \"kind\": \"youtube#videoListResponse\",\n  \"etag\": \"vSkH4pr2S_qkUct0jHOTCJT_OnI\",\n  \"items\": [\n    {\n      \"kind\": \"youtube#video\",\n      \"etag\": \"28Al79QKzvVfrSUO1tuVKivq4Hw\",\n      \"id\": \"XBxssKYf5G0\",\n      \"snippet\": {\n        \"publishedAt\": \"2023-01-11T10:00:27Z\",\n        \"channelId\": \"UC1mxuk7tuQT2D0qTMgKji3w\",\n        \"title\": \"Django DRF Project | API Documentation with Swagger UI | 18\",\n        \"description\": \"In this tutorial, we learn how to start building documentation for our API, first creating a schema and then using Swagger UI to present details.\\n\\nUdemy Course Link:\\nhttps://www.udemy.com/course/django-drf-project-ecommerce/?referralCode=59A869F117A84EA81612\\n\\nYouTube PlayList:\\nhttps://youtube.com/playlist?list=PLOLrQ9Pn6cawinBJbH5d9IfloO9RRPMiq\\n\\nDeveloping applications can be a fun and effective way of learning a language and framework. In this course, at phase 1, we start building and testing an eCommerce inventory RESTful API with DRF (Django Rest Framework).\\n\\nThis course is primarily designed for anyone looking for a learning journey building applications with the Django Rest Framework, developing, testing and documenting a RESTful API.\\n\\nThis course presents our first iteration of this course and phase 1 of the development process. This course will evolve and extend over time as we iterate on the content to maximise learning opportunities.\\n\\nAs presented in phase 1 of the course, we initiate the project and start building and testing the core functionality of the RESTful API application. In Phase 1, we learn the fundamentals of the Python Django Rest Framework, design a database, implement testing throughout the application and work towards building our first endpoints while also automatically documenting our efforts. By the end of phase 1, you will have learnt how to start a new Django DRF project and create routers, serializers and viewsets to enable clients to interact with your API. Throughout the development process, we learn how to test our application using Pytest and document our endpoints in preparation for front-end development using SwaggerUI.\\n\\nWe intend to extend the content of the course to eventually include deeper relevant content to aid further your understanding of the development process and techniques, deployment, and other associated technologies. Due to the scale of our courses we hope to bring to you our approach to building courses is a phased, iterative approach. Having time to reflect, analyse and seek feedback is essential to ensure that we develop courses that will ultimately meet the highest expectations.\\n\\nI hope you enjoy the course.\",\n        \"thumbnails\": {\n          \"default\": {\n            \"url\": \"https://i.ytimg.com/vi/XBxssKYf5G0/default.jpg\",\n            \"width\": 120,\n            \"height\": 90\n          },\n          \"medium\": {\n            \"url\": \"https://i.ytimg.com/vi/XBxssKYf5G0/mqdefault.jpg\",\n            \"width\": 320,\n            \"height\": 180\n          },\n          \"high\": {\n            \"url\": \"https://i.ytimg.com/vi/XBxssKYf5G0/hqdefault.jpg\",\n            \"width\": 480,\n            \"height\": 360\n          },\n          \"standard\": {\n            \"url\": \"https://i.ytimg.com/vi/XBxssKYf5G0/sddefault.jpg\",\n            \"width\": 640,\n            \"height\": 480\n          },\n          \"maxres\": {\n            \"url\": \"https://i.ytimg.com/vi/XBxssKYf5G0/maxresdefault.jpg\",\n            \"width\": 1280,\n            \"height\": 720\n          }\n        },\n        \"channelTitle\": \"Very Academy\",\n        \"tags\": [\n          \"django drf project\",\n          \"django rest framework project\",\n          \"drf ecommerce project\",\n          \"viewset\",\n          \"DRF router\",\n          \"django router\"\n        ],\n        \"categoryId\": \"27\",\n        \"liveBroadcastContent\": \"none\",\n        \"localized\": {\n          \"title\": \"Django DRF Project | API Documentation with Swagger UI | 18\",\n          \"description\": \"In this tutorial, we learn how to start building documentation for our API, first creating a schema and then using Swagger UI to present details.\\n\\nUdemy Course Link:\\nhttps://www.udemy.com/course/django-drf-project-ecommerce/?referralCode=59A869F117A84EA81612\\n\\nYouTube PlayList:\\nhttps://youtube.com/playlist?list=PLOLrQ9Pn6cawinBJbH5d9IfloO9RRPMiq\\n\\nDeveloping applications can be a fun and effective way of learning a language and framework. In this course, at phase 1, we start building and testing an eCommerce inventory RESTful API with DRF (Django Rest Framework).\\n\\nThis course is primarily designed for anyone looking for a learning journey building applications with the Django Rest Framework, developing, testing and documenting a RESTful API.\\n\\nThis course presents our first iteration of this course and phase 1 of the development process. This course will evolve and extend over time as we iterate on the content to maximise learning opportunities.\\n\\nAs presented in phase 1 of the course, we initiate the project and start building and testing the core functionality of the RESTful API application. In Phase 1, we learn the fundamentals of the Python Django Rest Framework, design a database, implement testing throughout the application and work towards building our first endpoints while also automatically documenting our efforts. By the end of phase 1, you will have learnt how to start a new Django DRF project and create routers, serializers and viewsets to enable clients to interact with your API. Throughout the development process, we learn how to test our application using Pytest and document our endpoints in preparation for front-end development using SwaggerUI.\\n\\nWe intend to extend the content of the course to eventually include deeper relevant content to aid further your understanding of the development process and techniques, deployment, and other associated technologies. Due to the scale of our courses we hope to bring to you our approach to building courses is a phased, iterative approach. Having time to reflect, analyse and seek feedback is essential to ensure that we develop courses that will ultimately meet the highest expectations.\\n\\nI hope you enjoy the course.\"\n        },\n        \"defaultAudioLanguage\": \"en-GB\"\n      },\n      \"contentDetails\": {\n        \"duration\": \"PT20M\",\n        \"dimension\": \"2d\",\n        \"definition\": \"hd\",\n        \"caption\": \"true\",\n        \"licensedContent\": true,\n        \"contentRating\": {},\n        \"projection\": \"rectangular\"\n      },\n      \"statistics\": {\n        \"viewCount\": \"7772\",\n        \"likeCount\": \"123\",\n        \"favoriteCount\": \"0\",\n        \"commentCount\": \"21\"\n      }\n    }\n  ],\n  \"pageInfo\": {\n    \"totalResults\": 1,\n    \"resultsPerPage\": 1\n  }\n}\n",
+    "headers": {
+        "cache-control": "private",
+        "content-encoding": "gzip",
+        "content-length": "1780",
+        "content-type": "application/json; charset=UTF-8",
+        "date": "Mon, 03 Jul 2023 16:34:01 GMT",
+        "server": "scaffolding on HTTPServer2",
+        "vary": "Origin, X-Origin, Referer"
+    },
+    "status": 200,
+    "statusText": null
+}
